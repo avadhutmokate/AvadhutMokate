@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avadhut Mokate</h1>
+<h1 align="center"> I'm Avadhut Mokate</h1>
 <h3 align="center">Java DSA | Web Developer | Tech Enthusiast</h3>
 
 ---
@@ -19,7 +19,6 @@
 - 🌐 Portfolio: [My Portfolio](https://your-portfolio.com)
 - 💼 LinkedIn: [Avadhut Mokate](https://www.linkedin.com/in/avadhut-mokate-750778318/)
 - 🛠 GitHub: [@AvadhutMokate](https://github.com/AvadhutMokate)
-## Hi there 👋
 
 <!--
 **avadhutmokate/AvadhutMokate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
