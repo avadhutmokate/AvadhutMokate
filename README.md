@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avadhut Mokate</h1>
 <h3 align="center">Java DSA | Web Developer | Tech Enthusiast</h3>
 
-> *"Programming isn't about what you know; it's about what you can figure out."* – Chris Pine
-
 ---
 
 ## 👨‍💻 About Me
@@ -10,7 +8,7 @@
 - 🔭 I’m currently working on **Java DSA and building web projects**
 - 🌱 Actively learning **Full Stack Development** (Java, HTML/CSS, JS)
 - 💬 Ask me about **Java, GitHub projects, and logic building**
-- 📫 Reach me at: [avadhutmokate@example.com](mailto:avadhutmokate@example.com)
+- 📫 Reach me at: [mokateavadhut@gmail.com](mailto:mokateavadhut@gmail.com)
 - 💼 Looking for internships in **Java or Web Development**
 - 🧠 Exploring backend, APIs, and GitHub workflows
 
