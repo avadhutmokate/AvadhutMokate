@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avadhut Mokate</h1>
+<h1 align="center">Avadhut Mokate</h1>
 <h3 align="center">Java DSA | Web Developer | Tech Enthusiast</h3>
 
 
