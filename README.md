@@ -1,11 +1,11 @@
 <h1 align="center">Avadhut Mokate</h1>
-<h3 align="center">Java DSA | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Web Developer | Tech Enthusiast</h3>
 
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Java DSA**
-- 💬 Ask me about **Java, GitHub projects, and logic building**
+- 🔭 I’m currently working on **Frontend**
+- 💬 Ask me about **GitHub projects, and Web dev**
 - 📫 Reach me at: [mokateavadhut@gmail.com](mailto:avadhutmokate@example.com)
 - 💼 Looking for internships in **Java or Web Development**
 - 🧠 Exploring backend, APIs, and GitHub workflows
