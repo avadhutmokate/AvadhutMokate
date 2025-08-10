@@ -4,10 +4,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Frontend**
-- 💬 Ask me about **GitHub projects, and Web dev**
+
 - 📫 Reach me at: [mokateavadhut@gmail.com](mailto:avadhutmokate@example.com)
-- 💼 Looking for internships in **Java or Web Development**
+- 💼 Looking for internships in **Java**
 - 🧠 Exploring backend, APIs, and GitHub workflows
 
 ---
