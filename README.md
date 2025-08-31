@@ -1,5 +1,5 @@
 <h1 align="center">Avadhut Mokate</h1>
-<h3 align="center">Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer | Tech Enthusiast</h3>
 
 
 ## 👨‍💻 About Me
